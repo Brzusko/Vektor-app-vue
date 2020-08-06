@@ -1,24 +1,9 @@
-# vektor-app
+# Vektor-app front-end
 
-## Project setup
-```
-npm install
-```
+**Krótki opis projektu**:
+Jest to projekt strony koła naukowego napisany z użyciem Vue.js, oraz Vuetify.
+Strona służy również jako front-end panelu zarządzania treścią na stronie internetowej i panelem zarządzania dla master-serwer'a. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**Użyte technologie:**
+- Vue.js - framework dla front-end'u
+- Vuetify - gotowy zbiór komponentów dla Vue.js
